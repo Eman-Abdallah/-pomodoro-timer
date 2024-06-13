@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eman-Abdallah/-pomodoro-timer/static/css/main.c85d6640.css",
+    "main.js": "/Eman-Abdallah/-pomodoro-timer/static/js/main.b2dcbe0f.js",
+    "static/js/453.0a9a0de8.chunk.js": "/Eman-Abdallah/-pomodoro-timer/static/js/453.0a9a0de8.chunk.js",
+    "index.html": "/Eman-Abdallah/-pomodoro-timer/index.html",
+    "main.c85d6640.css.map": "/Eman-Abdallah/-pomodoro-timer/static/css/main.c85d6640.css.map",
+    "main.b2dcbe0f.js.map": "/Eman-Abdallah/-pomodoro-timer/static/js/main.b2dcbe0f.js.map",
+    "453.0a9a0de8.chunk.js.map": "/Eman-Abdallah/-pomodoro-timer/static/js/453.0a9a0de8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c85d6640.css",
+    "static/js/main.b2dcbe0f.js"
+  ]
+}
